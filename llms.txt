@@ -1,0 +1,30 @@
+# Negocio Eficiente
+
+> Consultoría que implementa inteligencia artificial y automatización en los procesos diarios de micro y pequeñas empresas: administración y facturas, inventario y operación, documentos y manuales, personal, atención a clientes y capacitación del equipo. Base en Santiago de Querétaro, México.
+
+## Datos del negocio
+- Sitio: https://negocioeficiente.com
+- Atención presencial en las instalaciones del cliente: Santiago de Querétaro, León, Aguascalientes, San Luis Potosí, Irapuato, Celaya, Salamanca, San Juan del Río, Morelia y Ciudad de México.
+- Atención en línea: toda Hispanoamérica, con prioridad en Colombia, Chile y Perú.
+- Horario: lunes a viernes, de 10:00 a 19:00.
+- Contacto: WhatsApp +52 55 4851 4751, info@negocioeficiente.com y formulario web.
+- Fundador: Miguel F. Favila, ingeniero industrial y de sistemas por el Tec de Monterrey y auditor de calidad ISO 9001.
+
+## Servicios y precios
+- Llamada de diagnóstico: gratis.
+- Etapa de diagnóstico para implementar IA: 487 USD (1 a 5 empleados) y 997 USD (6 a 30 empleados), más impuestos aplicables en México. Más de 30 empleados: cotización.
+- Implementación por proyecto y acompañamiento mensual: se cotizan después del diagnóstico.
+- Capacitación por puesto en ChatGPT, Claude, Gemini y Copilot.
+
+## Cómo trabajamos
+- Usamos las herramientas que el negocio ya tiene: Google Workspace, Excel, WhatsApp y correo.
+- Entregamos todo documentado y capacitamos al equipo para que no dependa de nosotros.
+- Los datos sensibles los controla el cliente: seguimos sus políticas y las leyes aplicables, firmamos acuerdos de confidencialidad y no subimos a la IA información legal ni fiscal sensible de contribuyentes ni de sus partes relacionadas.
+
+## Experiencia
+- Luelmo Contadores (contadoresluelmo.com.mx): contabilidad, auditoría y nómina.
+- Avalarq (valuacion-mexico.com): valuación inmobiliaria.
+- Liderpreneurs (liderpreneurs.com): contenido, páginas web y canales de YouTube.
+
+## Lo que no hacemos
+- Desarrollo de apps a la medida ni implementación de ERP.
