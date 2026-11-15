@@ -16,7 +16,7 @@ Consultoría que implementa inteligencia artificial en los procesos diarios de m
 ## Marcador
 | Indicador | Primera medición | Después de corregir |
 |---|---|---|
-| Preguntas contestadas, de 10 | [EDITAR] | [EDITAR] |
+|preguntas contestadas, de 10: 8 (2 parciales por política de precio y tiempo).
 | Puntaje AI Visibility Checker, de 100 | [EDITAR] | [EDITAR] |
 | Negocios que nombra la IA | ChatGPT y Gemini no nombran a Negocio Eficiente (sitio sin publicar) | [EDITAR] |
 
